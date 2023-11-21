@@ -118,7 +118,7 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
-![Uploading Screenshot 2023-11-21 192535.png…]()
+![Uploading Screenshot 2023-11-21 202222.png…]()
 
 # RESULT : 
 User Profile displayed successfully using django framework.
