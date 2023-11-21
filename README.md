@@ -118,7 +118,7 @@ In the admin/ page you can view the models created
 And  in the user_profile template page you can see the profile page of the user.
 
 # OUTPUT : 
-![Uploading Screenshot 2023-11-21 202222.png…]()
+![image](https://github.com/Thrineshroyal/ODD2023-WT-Ex-04-Django-Models/assets/145741928/5b753a38-1c9b-4180-8767-0104e8489c0d)
 
 # RESULT : 
 User Profile displayed successfully using django framework.
